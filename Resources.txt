@@ -1,0 +1,10 @@
+Resources Used:
+- Sci-Kit learn documentation - http://scikit-learn.org/stable/
+- Wikipedia for Algorithm high level descriptions
+- Feature Scaling:
+   + https://www.biomedware.com/files/documentation/Preparing_data/Methods_for_data_standardization.htm
+   + http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+- https://www.kaggle.com/wiki/RandomForests
+- http://stackoverflow.com/questions/22354094/pythonic-way-of-detecting-outliers-in-one-dimensional-observation-data
+- http://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
+- http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
